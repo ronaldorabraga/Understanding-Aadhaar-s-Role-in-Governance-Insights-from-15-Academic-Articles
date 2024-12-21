@@ -54,13 +54,14 @@ By integrating these advanced analytical techniques, the study provided a nuance
 ### 4.1 Keyword Frequency
 The keyword frequency analysis revealed distinct trends in how Aadhaar-related topics are framed. Positive sentiments prominently featured terms like “data,” “system,” and “service,” emphasizing Aadhaar’s role in enhancing efficiency, service delivery, and value in governance systems. Conversely, negative sentiments were dominated by terms such as “problem,” “privacy,” and “risk.”  
 
-![Keyword Frequency Chart](ronaldorabraga-patch-1/images/keyword_frequency.png)
+![image](wordfre.png)
 
 ### 4.2 Sentiment Trends
 The sentiment trend graph revealed a significant prevalence of neutral sentiments, comprising the majority of analyzed sentences. Instances of polarized views were evident, with distinct spikes in both positive and negative sentiment.  
-
+![image](trend.png)
 ### 4.3 Word Cloud Analysis
 Positive word clouds featured terms like “value,” “security,” and “benefit.” In contrast, negative word clouds highlighted terms such as “problems,” “privacy,” and “fraud.” Removing “Aadhaar” and “government” revealed a clearer view of the underlying issues and benefits.  
+![image](cloud.png)
 
 ---
 

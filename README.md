@@ -57,7 +57,9 @@ The keyword frequency analysis revealed distinct trends in how Aadhaar-related t
 ![Image](wordfre.png)
 
 ### 4.2 Sentiment Trends
-The sentiment trend graph revealed a significant prevalence of neutral sentiments, comprising the majority of analyzed sentences. Instances of polarized views were evident, with distinct spikes in both positive and negative sentiment.  
+The sentiment trend graph revealed a significant prevalence of neutral sentiments, comprising the majority of analyzed sentences. Instances of polarized views were evident, with distinct spikes in both positive and negative sentiment. 
+
+![Image](trend.png)
 
 ### 4.3 Word Cloud Analysis
 Positive word clouds featured terms like “value,” “security,” and “benefit.” In contrast, negative word clouds highlighted terms such as “problems,” “privacy,” and “fraud.” Removing “Aadhaar” and “government” revealed a clearer view of the underlying issues and benefits.  
